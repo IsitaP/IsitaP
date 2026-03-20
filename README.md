@@ -8,7 +8,6 @@
 
 <div align="center">
 
-## 👋 Hey there! I'm Isabella Palacio Fajardo
 
 </div>
 
