@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Banner animado -->
-https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Isabella+%F0%9F%91%8B;Systems+Engineering+Student;Frontend+%26+AI+Enthusiast)
+<div align="center">
 
 </div>
 
