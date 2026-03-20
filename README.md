@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img src="https://capsule-signal.vercel.app/api/capsule?type=waving&color=gradient&customColorList=0,2,2,5&height=200&section=header&text=Isabella%20Palacio%20Fajardo&fontSize=40&fontColor=c0416a&animation=twinkling&fontAlignY=35&desc=Systems%20Engineering%20Student%20%7C%20Frontend%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18&theme=rose" width="100%"/>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E75480&background=FFE4F0&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Isabella+%F0%9F%8C%B8;Systems+Engineering+Student;Frontend+%26+AI+Enthusiast;Always+learning%2C+always+growing+%F0%9F%92%AB)
 
