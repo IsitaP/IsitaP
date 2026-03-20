@@ -112,7 +112,6 @@
 <div align="center">
 
 *"The best way to predict the future is to invent it."* 💫
-
-<img src="https://capsule-signal.vercel.app/api/capsule?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+"100%"/>
 
 </div>
