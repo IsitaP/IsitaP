@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado -->
-<img src="https://capsule-signal.vercel.app/api/capsule?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Isabella%20Palacio%20Fajardo&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Systems%20Engineering%20Student%20%7C%20Frontend%20%26%20AI%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif
 
 </div>
 
