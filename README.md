@@ -3,8 +3,7 @@
 <!-- Banner animado -->
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E75480&background=FFE4F0&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Isabella+%F0%9F%8C%B8; 
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E75480&background=FFE4F0&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Isabella+%F0%9F%8C%B8)
 </div>
 
 <div align="center">
