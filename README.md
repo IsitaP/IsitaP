@@ -6,11 +6,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E75480&background=FFE4F0&center=true&vCenter=true&width=700&height=60&lines=Hi%2C+I'm+Isabella+%F0%9F%8C%B8)
 </div>
 
-<div align="center">
-
-## 👋 Hey there! I'm Isabella Palacio Fajardo
-
-</div>
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
